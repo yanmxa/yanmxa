@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Python, ML or any tech related stuff.
 - 📫 How to reach me: yanmxa@163.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Stupid & wise.
+- ⚡ Fun fact: Foolish and wise.
 
