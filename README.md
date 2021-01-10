@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Thoughtworks
-- 🌱 I’m currently learning node, react and graphql.
+- 🌱 I’m currently learning nodejs, react and graphql.
 - 💬 Ask me about Java, Python, ML or any tech related stuff.
 - 📫 How to reach me: yanmxa@163.com
 - 😄 Pronouns: He/His
