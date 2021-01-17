@@ -5,9 +5,11 @@
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Thoughtworks
+
 -->
 
-- 🔭 I’m currently working on Thoughtworks
+- 🔭 I’m currently working on **
 - 🌱 I’m currently learning nodejs, react and graphql.
 - 💬 Ask me about Java, Python, ML or any tech related stuff.
 - 📫 How to reach me: yanmxa@163.com
