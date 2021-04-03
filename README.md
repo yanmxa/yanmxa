@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **
 - 🌱 I’m currently learning nodejs, react and graphql.
-- 💬 Ask me about Java, Python, Nodejs, ML or any tech related stuff.
+- 💬 Ask me about Reinforcement Learing, Machine Learning, Deep Learning, Java, Python, Nodejs, React, Web or any tech related stuff.
 - 📫 How to reach me: yanmxa@163.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Foolish and wise.
