@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🤔 cloud, go, nodejs, graphql, RL, ML, DL, React... 
+- 🤔 Interests: cloud, reinforcement & machine learning, go, nodejs, graphql, react... 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Foolish and wise.
 
