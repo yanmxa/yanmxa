@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Foolish and wise.
 
-<a href="https://github.com/haoqing0110/haoqing0110/blob/master/README.md">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanmxa&show_icons=true&count_private=false&theme=graywhite" />
+<a href="https://github.com/yanmxa/yanmxa/blob/master/README.md">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanmxa&show_icons=false&count_private=false&theme=graywhite" />
 </a>
 
