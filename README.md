@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Foolish and wise.
 
 <a href="https://github.com/haoqing0110/haoqing0110/blob/master/README.md">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanmxa&show_icons=true&count_private=true&theme=graywhite" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanmxa&show_icons=true&count_private=false&theme=graywhite" />
 </a>
 
