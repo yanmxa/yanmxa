@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 Cloud, Heuristic Algorithm, Reinforcement & Machine Learning, MLOps, Go, Nodejs, React... 
 
 <a href="https://github.com/yanmxa/yanmxa/blob/master/README.md">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanmxa&show_icons=true&count_private=true&theme=graywhite" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanmxa&show_icons=true&count_private=true&theme=graywhite&include_all_commits=false" />
 </a>
 
