@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🤔 Cloud, Heuristic Algorithm, Reinforcement & Machine Learning, MLOps, Go, Nodejs, React... 
+- 🤔 AI Agent, Cloud, Heuristic Algorithm, Reinforcement & Machine Learning, MLOps, Go, Nodejs, React... 
 
 <!--
 <a href="https://github.com/yanmxa/yanmxa/blob/master/README.md">
